@@ -14,8 +14,12 @@ function ApiUrl() {
     //url = "http://52.170.98.93:3000/api/";
     //urlUser = "http://52.170.98.93:3000/users/";
 
-    url = "http://localhost:3000/api/";
-    urlUser = "http://localhost:3000/users/";
+    //Movil
+    url = "http://52.170.98.93:3001/api/";
+    urlUser = "http://52.170.98.93:3001/users/";
+
+    //url = "http://localhost:3000/api/";
+    //urlUser = "http://localhost:3000/users/";
 
     ////ejemplo a seguir
     //this.getUser = function () {

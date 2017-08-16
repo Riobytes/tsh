@@ -21,7 +21,7 @@ mongoose.connection.on('error', () => {
 
 var app = express();
 const users = require('./Routers/users');
-const port = 3000;
+const port = 3001;
 app.use(cors());
 app.use(express.static(path.join(__dirname, 'public')));
 //app.use(bodyParser.urlencoded({ extended: true }));

@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BaseDatos"
+    "\\client",
+    "\\client\\Administrador",
+    "\\HttpService"
   ],
-  "SelectedNode": "\\BaseDatos\\backupTsh",
+  "SelectedNode": "\\client\\Administrador\\IngresoCliente.html",
   "PreviewInSolutionExplorer": false
 }
